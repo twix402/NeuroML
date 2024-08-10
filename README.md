@@ -3,4 +3,4 @@ A Machine-Learning model to identify Psychiatric Disorders using a preexisting k
 [Dataset](https://www.kaggle.com/datasets/shashwatwork/eeg-psychiatric-disorders-dataset)
 
 By: Darshan and Twisha
-<br> website link :- https://openneuro.org/
+<br> OpenNeuro :- https://openneuro.org/
